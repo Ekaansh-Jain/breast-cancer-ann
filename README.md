@@ -37,10 +37,4 @@ A lightweight, Flask-based web application that predicts the likelihood of breas
 
 ---
 
-## 📦 Installation
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Ekaansh-Jain/breast-cancer-ann.git
-cd breast-cancer-ann
